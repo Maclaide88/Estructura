@@ -1,0 +1,14 @@
+C:\Users\Matias\source\repos\Estructura\Funciones\Funciones\obj\Debug\netcoreapp3.1\Funciones.csproj.AssemblyReference.cache
+C:\Users\Matias\source\repos\Estructura\Funciones\Funciones\obj\Debug\netcoreapp3.1\Funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matias\source\repos\Estructura\Funciones\Funciones\obj\Debug\netcoreapp3.1\Funciones.AssemblyInfoInputs.cache
+C:\Users\Matias\source\repos\Estructura\Funciones\Funciones\obj\Debug\netcoreapp3.1\Funciones.AssemblyInfo.cs
+C:\Users\Matias\source\repos\Estructura\Funciones\Funciones\obj\Debug\netcoreapp3.1\Funciones.csproj.CoreCompileInputs.cache
+C:\Users\Matias\source\repos\Estructura\Funciones\Funciones\bin\Debug\netcoreapp3.1\Funciones.exe
+C:\Users\Matias\source\repos\Estructura\Funciones\Funciones\bin\Debug\netcoreapp3.1\Funciones.deps.json
+C:\Users\Matias\source\repos\Estructura\Funciones\Funciones\bin\Debug\netcoreapp3.1\Funciones.runtimeconfig.json
+C:\Users\Matias\source\repos\Estructura\Funciones\Funciones\bin\Debug\netcoreapp3.1\Funciones.runtimeconfig.dev.json
+C:\Users\Matias\source\repos\Estructura\Funciones\Funciones\bin\Debug\netcoreapp3.1\Funciones.dll
+C:\Users\Matias\source\repos\Estructura\Funciones\Funciones\bin\Debug\netcoreapp3.1\Funciones.pdb
+C:\Users\Matias\source\repos\Estructura\Funciones\Funciones\obj\Debug\netcoreapp3.1\Funciones.dll
+C:\Users\Matias\source\repos\Estructura\Funciones\Funciones\obj\Debug\netcoreapp3.1\Funciones.pdb
+C:\Users\Matias\source\repos\Estructura\Funciones\Funciones\obj\Debug\netcoreapp3.1\Funciones.genruntimeconfig.cache
