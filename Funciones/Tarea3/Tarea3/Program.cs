@@ -4,35 +4,33 @@ namespace Tarea3
 {
     class Program
     {
-        static void Main()
+        public static void Main(string[] args)
         {
-            int numero;
-            bool resultado;
-            Console.WriteLine("Ingrese un numero");
-            numero = Convert.ToInt32(Console.ReadLine());
-            resultado = EsPrimo(numero);
-            if (resultado == true)
+
+            int num;
+            Console.WriteLine("Escriba un número: ");
+            num = Convert.ToInt32(Console.ReadLine());
+            if (EsPrimo(num))
             {
-                Console.WriteLine("El numero es primo");
+                Console.WriteLine("Numero primo");
             }
             else
             {
-                Console.WriteLine("El numero no es primo");
+                Console.WriteLine("No es numero primo");
             }
+
         }
 
         public static bool EsPrimo(int numero)
         {
-            int i;
-            bool resultado;
-            for (i = 2; i < numero; i++)
+            for (int i = 2; i < numero; i++)
             {
-                if (numero % i == 0)
+                if ((numero % i) == 0)
                 {
-                    resultado= true;
+                    return false;
                 }
             }
-
+            return true;
         }
     }
 }
