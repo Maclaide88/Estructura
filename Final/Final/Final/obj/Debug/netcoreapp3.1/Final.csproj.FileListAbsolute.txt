@@ -1,0 +1,5 @@
+C:\Users\Matias\source\repos\Estructura\Final\Final\Final\obj\Debug\netcoreapp3.1\Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matias\source\repos\Estructura\Final\Final\Final\obj\Debug\netcoreapp3.1\Final.AssemblyInfoInputs.cache
+C:\Users\Matias\source\repos\Estructura\Final\Final\Final\obj\Debug\netcoreapp3.1\Final.AssemblyInfo.cs
+C:\Users\Matias\source\repos\Estructura\Final\Final\Final\obj\Debug\netcoreapp3.1\Final.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Source\Repos\Estructura\Final\Final\Final\obj\Debug\netcoreapp3.1\Final.csproj.AssemblyReference.cache
